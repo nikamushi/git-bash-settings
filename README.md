@@ -1,2 +1,3 @@
-# git-bash-settings
-Git bash setting for:
+Git Bash setting for:
+- C++ compiler
+- Modifying Git Bash Prompt
